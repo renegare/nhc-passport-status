@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "passport": "chimp --mocha"
+  },
   "dependencies": {
     "chimp": "^0.41.1"
   }
